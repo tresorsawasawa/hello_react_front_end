@@ -4,7 +4,7 @@
 
 > The HelloWorld app is a web application that returns a random greeting by clicking on the button generator.
 
-> ### Link to [Hello_react_back_end](https://github.com/tresorsawasawa/hello_react_front_end)
+> ### Link to [Hello_react_back_end](https://github.com/tresorsawasawa/hello_react_back_end)
 
 ## Built With
 
